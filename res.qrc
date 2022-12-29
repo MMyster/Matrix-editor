@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res/fonts/heartland-script-maisfontes.f796/heartland-script.otf</file>
+        <file>res/fonts/voire-regular-maisfontes.9114/voire-regular.ttf</file>
+    </qresource>
+</RCC>
